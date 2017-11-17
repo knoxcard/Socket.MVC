@@ -6,12 +6,10 @@ Socket.MVC extends the usability of Socket.io in an MVC environment.  The curren
 ## Install
 
 First you will need a version of Socket.io.  The fastest way to accomplish this is using NPM.
-
-    npm install socket.io
+  npm install socket.io --save
 
 Next use NPM to install Socket.MVC
-
-	npm install socket.mvc
+  npm install socket.mvc --save
 
 ## How to use
 
